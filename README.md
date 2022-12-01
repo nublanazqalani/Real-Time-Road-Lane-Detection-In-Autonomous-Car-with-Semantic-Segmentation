@@ -1,1 +1,1 @@
-# Real-Time-Road-Lane-Detection-In-Autonomous-Car-with-Semantic-Segmentation
+# Deteksi Lajur Jalan Secara Real-Time pada Aunomous Car Menggunakan Metoode Semantic Segmentation
