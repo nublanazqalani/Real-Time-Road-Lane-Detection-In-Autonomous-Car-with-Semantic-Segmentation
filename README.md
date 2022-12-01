@@ -1,1 +1,1 @@
-# Deteksi Lajur Jalan Secara Real-Time pada Aunomous Car Menggunakan Metoode Semantic Segmentation
+# Deteksi Lajur Jalan Secara Real-Time pada Autonomous Car Menggunakan Metoode Semantic Segmentation
